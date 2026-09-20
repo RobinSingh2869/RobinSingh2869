@@ -31,44 +31,18 @@
 
 <br clear="both">
 
-## 🛠️ Tech Stack
-
-### ☕ Backend
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,redis&theme=dark&perline=5" />
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=5" />
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,github&theme=dark&perline=5" />
-
-</div>
-
-### 🔧 Tools & Additional Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=maven,postman,idea&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,redis,mysql,postgres,docker,aws,githubactions,git,github,maven,postman,idea&theme=dark&perline=8" alt="Tech Stack"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 
 </div>
 
