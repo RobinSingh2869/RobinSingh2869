@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Robin Singh</h1>
 
-<h3>A passionate Java Backend Developer from India</h3>
+<h3>A Java Backend Developer </h3>
 
 </div>
 
